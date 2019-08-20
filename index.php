@@ -1,5 +1,6 @@
 <?php
 
+<<<<<<< HEAD
 
 if (true) {
 echo 'true';
@@ -8,5 +9,8 @@ echo 'false';
 }
 
 
+=======
+echo 'index';
+>>>>>>> 9012348... add file
 
 ?>
